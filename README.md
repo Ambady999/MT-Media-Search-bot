@@ -29,7 +29,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rafeeq-99/MT-Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ambady999/MT-Media-Search-bot/MT-Media-Search-bot)
 ### Hard Way
 
 
